@@ -1,0 +1,19 @@
+{
+  "name": "electron-ddr",
+  "version": "1.0.0",
+  "description": "A Dance Dance Revolution clone made in Electron, as suggested by George Tsatsis (@gtsatsts)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlitchMasta47/electron-ddr.git"
+  },
+  "author": "GlitchMasta47",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GlitchMasta47/electron-ddr/issues"
+  },
+  "homepage": "https://github.com/GlitchMasta47/electron-ddr#readme"
+}
